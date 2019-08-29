@@ -1,0 +1,4 @@
+#!/usr/bin/env sh
+printenv
+export DOCKER_REPO=index.docker.io/nickzurich/composer-prestissimo
+docker build -t $IMAGE_NAME .
