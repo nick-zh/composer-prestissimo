@@ -1,3 +1,7 @@
+# Deprecation notice
+Due to composer v2, this is not really necessary anymore, so i archive this projects.  
+Images will remain, but will not be updated anymore.
+
 # Supported tags and respective `Dockerfile` links
 [`latest` (Dockerfile)](https://github.com/nick-zh/docker-composer-prestissimo/blob/master/Dockerfile "Dockerfile")  
 [`php7.4` (Dockerfile)](https://github.com/nick-zh/docker-composer-prestissimo/blob/php7.4/Dockerfile "Dockerfile")  
